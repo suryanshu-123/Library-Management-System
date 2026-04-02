@@ -25,4 +25,4 @@ npm start
 Open client/index.html
 
 ## 📌 Author
-Your Name
+suryanshu satyaprangya das
